@@ -1,0 +1,20 @@
+[
+{
+  "modid": "mkmod",
+  "name": "mkmod",
+  "description": "MJ41374 first forge mod for Minecraft!",
+  "version": "${version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MJ41374"
+  ],
+  "credits": "MJ41374",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
